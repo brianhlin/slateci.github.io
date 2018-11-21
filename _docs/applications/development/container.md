@@ -27,7 +27,7 @@ Guidelines and conventions for SLATE developers
 -----------------------------------------------
 
 Each SLATE application should reside in a separate git repository in the
-GitHub slateci group. The name of the repository should be containter-appname.
+GitHub slateci group. The name of the repository should be container-appname.
 The directory structure should look like
 
 ```
